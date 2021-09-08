@@ -1,1 +1,3 @@
-about updated updated in master in main-section
+This is about page
+Hi from Master
+
