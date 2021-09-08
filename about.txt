@@ -1,1 +1,2 @@
-about updated updated in master
+This is about page
+Hi from Master
